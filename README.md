@@ -1,4 +1,5 @@
-# jingdong
+# Project
+基于Vue3.0的仿“京东到家”项目
 
 ## Project setup
 ```
