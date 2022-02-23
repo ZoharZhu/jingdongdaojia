@@ -1,5 +1,5 @@
 # Project
-基于Vue3.0的仿“京东到家”项目
+Vue3.0项目-“京东到家”应用
 
 ## Project setup
 ```
