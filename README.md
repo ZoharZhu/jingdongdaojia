@@ -1,5 +1,5 @@
 # Project
-Vue3.0项目-“京东到家”应用
+“京东到家”移动端项目，使用 vue3 + vuex + vue-router + vue-cli + scss 等技术，主要是用于学习 vue3 全家桶相关技术栈。
 
 ## Project setup
 ```
